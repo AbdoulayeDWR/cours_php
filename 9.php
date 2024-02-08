@@ -47,4 +47,4 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         echo "<p>Veuillez entrer deux nombres.</p>";
     }
 }
-?>
+?>test
